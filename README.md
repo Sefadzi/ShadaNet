@@ -1,2 +1,2 @@
 # ShadaNet
-CNN Fashion image classification with using Keras with Tensorflow backend
+CNN Fashion image classification using Keras with Tensorflow backend
